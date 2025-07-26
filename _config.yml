@@ -1,0 +1,15 @@
+# Site settings
+title: Portfolio 
+description: Hey I am Anushka Sirpurkar.
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Anushka Sirpurkar
+user_description:
+user_title: Data & Analytics Engineering
+email: iamdakshpatel@gmail.com
+twitter_username: hi5daksh
+github_username:  helloitsdaksh
+
+exclude: ['package.json', 'src' , 'node_modules']
